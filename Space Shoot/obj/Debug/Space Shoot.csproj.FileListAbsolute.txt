@@ -1,0 +1,12 @@
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\bin\Debug\Space Shoot.exe.config
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\bin\Debug\Space Shoot.exe
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\bin\Debug\Space Shoot.pdb
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.csproj.AssemblyReference.cache
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space_Shoot.Space.resources
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space_Shoot.Properties.Resources.resources
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.csproj.GenerateResource.cache
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.csproj.CoreCompileInputs.cache
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.exe
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.pdb
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vikingo\source\repos\Space Shoot\Space Shoot\obj\Debug\Space Shoot.csproj.ResolveComReference.cache
